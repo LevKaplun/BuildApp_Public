@@ -6,11 +6,11 @@ Thanks to BuildApp building occupants can receive and perform services in a grap
 
 ### Usage Exapmle Video:
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=Db20k1Z9mc8
-" target="_blank"><img src="http://img.youtube.com/vi/Db20k1Z9mc8/2.jpg" 
+" target="_blank"><img src="http://img.youtube.com/vi/Db20k1Z9mc8/hqdefault.jpg" 
 alt="Usage Exapmle Video" width="240" height="180" border="10" /></a>
 ### Explanation Video:
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=tD-0SvhTtcE
-" target="_blank"><img src="http://img.youtube.com/vi/tD-0SvhTtcE/2.jpg" 
+" target="_blank"><img src="http://img.youtube.com/vi/tD-0SvhTtcE/hqdefault.jpg" 
 alt="Explanation Video" width="240" height="180" border="10" /></a>
 
 ## Installation
